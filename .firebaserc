@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "hacknyu-3e0c8"
+  },
+  "targets": {
+    "hacknyu-3e0c8": {
+      "hosting": {
+        "dashboard": [
+          "hacknyu-dashboard"
+        ]
+      }
+    }
+  }
+}
